@@ -1,3 +1,8 @@
+// A linear search is a method for finding an element within a list by checking each element of
+// the list sequentially until the desired element is found, or the entire list has been searched through.
+
+// In terms of runtime complexity, a linear search makes at most n comparisons where n is the length of the list
+
 pub fn linear_search<T: PartialEq>(item: &T, array: &[T]) -> i32{
     let mut index_position = -1;
 
