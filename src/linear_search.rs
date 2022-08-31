@@ -17,7 +17,7 @@ pub fn linear_search<T: PartialEq>(item: &T, array: &[T]) -> i32{
 }
 
 #[cfg(test)]
-mod tests{
+mod tests {
     use super::*;
 
     #[test]
