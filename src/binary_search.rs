@@ -1,4 +1,4 @@
-// A binary search (half-interval search/logarithmic search/binary chop) is search algorithm that
+// A binary search (half-interval search/logarithmic search/binary chop) is a search algorithm that
 // finds a target value within a sorted array by comparing the target value to the middle of the array.
 // If they are not equal, the remaining half in which the target value cannot lie is eliminated, and the
 // search continues for each remaining half until the target value is found
