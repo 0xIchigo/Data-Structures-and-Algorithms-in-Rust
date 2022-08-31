@@ -6,4 +6,4 @@ A collection of data structures and algorithms in Rust coded by 0xIchigo.
 * [Binary Search](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/binary_search.rs)
 
 ### Sorting Algorithms
-* Bubble Sort
+* [Bubble Sort](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/bubble_sort.rs)

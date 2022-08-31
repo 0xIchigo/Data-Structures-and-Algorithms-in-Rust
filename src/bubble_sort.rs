@@ -16,6 +16,7 @@ pub fn bubble_sort<T: Ord + std::clone::Clone>(array: &mut [T]) -> Vec<T> {
             }
         }
     }
+    
     array.to_vec()
 }
 
