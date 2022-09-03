@@ -39,3 +39,4 @@ Big O Notation.
 
 ### Sorting Algorithms
 * [Bubble Sort](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/bubble_sort.rs)
+* [Quick Sort](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/quick_sort.rs)
