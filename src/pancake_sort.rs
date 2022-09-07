@@ -3,6 +3,9 @@
 // any point in the stack and is used to flipp all pancakes above it. Pancake number 
 // refers to the minimum number of flips required for a given number of pancakes.
 
+// In terms of runtime complexity, a pancake sort makes at most O(n^2) comparisons 
+// where, worst case scenario, it would make two loops of n iterations
+
 fn pancake_sort<T: Ord + std::clone::Clone>(array: &mut [T]) -> Vec<T> {
     if array.is_empty() {
         return vec![];
