@@ -1,5 +1,5 @@
 // Gnome sort is a variation of the insertion sort algorithm that does not use nested loops. It was initially 
-// proposed by Hamid Sarbazi-Azad in 2000 and was refered to as stupid sort, Dutch computer scientist Dick 
+// proposed by Hamid Sarbazi-Azad in 2000 and was referred to as stupid sort, Dutch computer scientist Dick 
 // Grune renamed it the gnome sort in light of a story describing how Dutch Garden Gnomes sort their flower pots
 
 // In terms of runtime complexity, a gnome sort makes at most O(n^2) comparisons and O(n^2) swaps where n is the 
