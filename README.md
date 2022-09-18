@@ -47,4 +47,4 @@ Big O Notation.
 * [Shell Sort](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/shell_sort.rs)
 
 ### Mathematical Algorithms
-*[Pascal's Triangle](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/pascals_triangle.rs)
+* [Pascal's Triangle](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/pascals_triangle.rs)
