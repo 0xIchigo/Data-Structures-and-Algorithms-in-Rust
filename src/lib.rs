@@ -8,3 +8,5 @@ mod insertion_sort;
 mod pancake_sort;
 mod quick_sort;
 mod shell_sort;
+
+mod pascals_triangle;
