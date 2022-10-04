@@ -1,4 +1,4 @@
-// Sleep sort is crowned the King of Laziness when it comes to sorting as it sorts while sleeping.
+// Sleep sort is crowned the "King of Laziness" when it comes to sorting as it sorts while sleeping.
 // The sorting algorithm works by starting a separate task for each item to be sorted, where each
 // task sleeps for an interval corresponding to the item's sort key, then emits the item. Items are
 // then collected sequentially in time. Sleep sort was first proposed anonymously on 4chan and later
