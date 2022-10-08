@@ -48,6 +48,7 @@ Big O Notation.
 * [Sleep Sort](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/sleep_sort.rs)
 
 ### Mathematical Algorithms
+* [Factors of an Integer](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/factors_of_an_integer.rs)
 * [Pascal's Triangle](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/pascals_triangle.rs)
 
 ### Miscellaneous
