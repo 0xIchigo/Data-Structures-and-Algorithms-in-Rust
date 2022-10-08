@@ -49,3 +49,6 @@ Big O Notation.
 
 ### Mathematical Algorithms
 * [Pascal's Triangle](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/pascals_triangle.rs)
+
+### Miscellaneous
+* [99 Bottles of Beer](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/99_bottles_of_beer.rs)
