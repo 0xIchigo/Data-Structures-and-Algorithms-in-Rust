@@ -52,3 +52,4 @@ Big O Notation.
 
 ### Miscellaneous
 * [99 Bottles of Beer](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/99_bottles_of_beer.rs)
+* [100 Doors](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/100_doors.rs)
