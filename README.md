@@ -28,8 +28,7 @@ idea of how long an algorithm will take to run based on its input size and the a
 the algorithm. We use Big O Notation to describe runtime complexity in terms of worst case scenario; it 
 doesn't matter if the program loops ten or a million times if the rate of change is the same. 
 
-I have added comments at the top of each data structure and algorithms' file regarding its runtime complexity using 
-Big O Notation.
+I have added comments at the top of most files regarding the algorithm's runtime complexity using Big O Notation.
 
 ## List of Data Structures and Algorithms
 
@@ -48,6 +47,7 @@ Big O Notation.
 * [Sleep Sort](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/sleep_sort.rs)
 
 ### Mathematical Algorithms
+* [Archimedean Spiral](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/archimedean_spiral.rs)
 * [Factors of an Integer](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/factors_of_an_integer.rs)
 * [Pascal's Triangle](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/pascals_triangle.rs)
 
