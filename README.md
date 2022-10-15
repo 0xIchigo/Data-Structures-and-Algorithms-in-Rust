@@ -49,6 +49,7 @@ I have added comments at the top of most files regarding the algorithm's runtime
 ### Mathematical Algorithms
 * [Archimedean Spiral](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/archimedean_spiral.rs)
 * [Factors of an Integer](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/factors_of_an_integer.rs)
+* [Julia Set](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/julia_set.rs)
 * [Pascal's Triangle](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/pascals_triangle.rs)
 
 ### Miscellaneous
