@@ -55,3 +55,4 @@ I have added comments at the top of most files regarding the algorithm's runtime
 ### Miscellaneous
 * [99 Bottles of Beer](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/99_bottles_of_beer.rs)
 * [100 Doors](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/100_doors.rs)
+* [Password Generator](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/password_generator.rs)
