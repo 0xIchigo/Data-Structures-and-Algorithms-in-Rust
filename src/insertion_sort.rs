@@ -16,7 +16,7 @@ fn insertion_sort<T: PartialOrd + std::clone::Clone>(array: &mut [T]) -> Vec<T> 
 
     for i in 1..length {
         let mut j = i - 1;
-        let mut k = array[i].clone();
+        let k = array[i].clone();
 
         while array[j] > k {
             array[j + 1] = array[j].clone();
