@@ -39,6 +39,7 @@ I have added comments at the top of most files regarding the algorithm's runtime
 ### Sorting Algorithms
 * [Bubble Sort](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/bubble_sort.rs)
 * [Cocktail Shaker Sort](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/cocktail_shaker_sort.rs)
+* [Counting Sort](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/counting_sort.rs)
 * [Gnome Sort](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/gnome_sort.rs)
 * [Insertion Sort](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/insertion_sort.rs)
 * [Pancake Sort](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/pancake_sort.rs)
