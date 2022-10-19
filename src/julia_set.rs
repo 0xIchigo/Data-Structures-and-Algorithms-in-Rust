@@ -5,7 +5,7 @@
 // all while expressing a complex and rich set of dynamics first explored in the 20th century.
 
 extern crate image
-use image::{ImageBuffer, Pixel, Rbg};
+use image::{ ImageBuffer, Pixel, Rbg };
 
 fn julia_set() {
     let width = 12000;
