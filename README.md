@@ -44,6 +44,7 @@ I have added comments at the top of most files regarding the algorithm's runtime
 * [Insertion Sort](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/insertion_sort.rs)
 * [Pancake Sort](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/pancake_sort.rs)
 * [Quick Sort](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/quick_sort.rs)
+* [Selection Sort](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/selection_sort.rs)
 * [Shell Sort](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/shell_sort.rs)
 * [Sleep Sort](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/sleep_sort.rs)
 
