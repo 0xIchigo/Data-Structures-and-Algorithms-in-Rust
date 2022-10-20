@@ -1,4 +1,5 @@
-// An algorithm that prints out all positive integers up to 2000...because why not!
+// An algorithm that adds all positive integers from 1 to 2000 to a text file named numbers.txt
+//...because why not!
 
 use std::fs::OpenOptions;
 use std::io::{ BufWriter, Write };
