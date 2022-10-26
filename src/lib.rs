@@ -2,6 +2,7 @@ mod linear_search;
 mod binary_search;
 
 mod bubble_sort;
+mod circle_sort;
 mod cocktail_shaker_sort;
 mod counting_sort;
 mod gnome_sort;
