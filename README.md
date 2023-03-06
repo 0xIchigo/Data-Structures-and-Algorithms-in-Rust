@@ -28,7 +28,8 @@ idea of how long an algorithm will take to run based on its input size and the a
 the algorithm. We use Big O Notation to describe runtime complexity in terms of worst case scenario; it 
 doesn't matter if the program loops ten or a million times if the rate of change is the same. 
 
-I have added comments at the top of most files regarding the algorithm's runtime complexity using Big O Notation.
+I have added comments at the top of most files regarding the algorithm's runtime complexity using Big O Notation. For
+the ciphers, I've decided to include security considerations at the top in place of runtime complexity.
 
 ## List of Data Structures and Algorithms
 
@@ -55,6 +56,9 @@ I have added comments at the top of most files regarding the algorithm's runtime
 * [Julia Set](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/julia_set.rs)
 * [Mandelbrot Set](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/mandelbrot_set.rs)
 * [Pascal's Triangle](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/pascals_triangle.rs)
+
+### Ciphers
+* [Atbash Cipher](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/atbash_cipher.rs)
 
 ### Miscellaneous
 * [99 Bottles of Beer](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/99_bottles_of_beer.rs)
