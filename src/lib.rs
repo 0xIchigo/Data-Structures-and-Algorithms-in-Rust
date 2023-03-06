@@ -13,3 +13,5 @@ mod selection_sort;
 mod shell_sort;
 
 mod pascals_triangle;
+
+mod atbash_cipher;
