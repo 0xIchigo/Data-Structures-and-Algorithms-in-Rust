@@ -66,3 +66,4 @@ the ciphers, I've decided to include security considerations at the top in place
 * [100 Doors](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/100_doors.rs)
 * [Count to Two Thousand](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/two_thousand.rs)
 * [Password Generator](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/password_generator.rs)
+* [Proof of Work Blockchain](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/tree/main/src/pow_blockchain)
