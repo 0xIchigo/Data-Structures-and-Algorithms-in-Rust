@@ -59,6 +59,7 @@ the ciphers, I've decided to include security considerations at the top in place
 
 ### Ciphers
 * [Atbash Cipher](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/atbash_cipher.rs)
+* [Caesar Cipher](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/caesar_cipher.rs)
 
 ### Miscellaneous
 * [99 Bottles of Beer](https://github.com/0xIchigo/Data-Structures-and-Algorithms-in-Rust/blob/main/src/99_bottles_of_beer.rs)

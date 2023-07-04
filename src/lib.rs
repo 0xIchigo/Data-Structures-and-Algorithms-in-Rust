@@ -15,3 +15,4 @@ mod shell_sort;
 mod pascals_triangle;
 
 mod atbash_cipher;
+mod caesar_cipher;
